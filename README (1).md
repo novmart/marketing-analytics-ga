@@ -1,4 +1,5 @@
 # Marketing Analytics - Google Analytics Sample
+   🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/views/MarketingAnalytics-GoogleMerchandiseStore/MarketingAnalytics-GoogleMerchandiseStore?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Proyecto de portfolio: SQL (BigQuery) + R + Tableau.
 Enfoque combinado: performance de campañas (conversión/ingreso por canal) +
