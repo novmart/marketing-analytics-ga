@@ -27,6 +27,7 @@ Merchandise Store. Cobertura: agosto 2016 - agosto 2017.
 
 ### 2. R (RStudio / Posit Cloud)
 `02_analisis_marketing.R`:
+**El CSV de datos limpios no se incluye en el repo por su tamaño (~900K filas); se genera automáticamente al correr 02_analisis_marketing.R**
 - Se conecta a BigQuery y trae ~903.000 sesiones a nivel individual
 - Limpia valores nulos (NA → 0 en columnas de conteo/ingreso)
 - Calcula KPIs por canal: sesiones, transacciones, ingresos, tasa de
@@ -35,6 +36,7 @@ Merchandise Store. Cobertura: agosto 2016 - agosto 2017.
   sesiones, tasa de conversión, ingreso por sesión) en 3 grupos
 - Grafica el embudo simplificado y la visualización del clustering
 - Exporta el CSV limpio para Tableau
+
 
 ### 3. Tableau
 Dashboard con:
